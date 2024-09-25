@@ -1,0 +1,2 @@
+"localhost": "127.0.0.1:3000"
+"kubernetes.docker.internal": "127.0.0.1:2000"
